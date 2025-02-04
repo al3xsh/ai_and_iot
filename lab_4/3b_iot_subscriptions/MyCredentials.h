@@ -1,5 +1,5 @@
 // my wifi credentials
-const char my_ssid[] = "<you ssid>";
+const char my_ssid[] = "<your ssid>";
 const char my_pass[] = "<your wifi password>";
 
 // my adafruit io credentials
