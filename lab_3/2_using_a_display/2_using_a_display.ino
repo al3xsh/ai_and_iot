@@ -1,4 +1,4 @@
-/**
+/*
  * 2_using_a_display.ino
  * 
  * this is a simple Arduino program to keep track of the up-time using 

@@ -6,7 +6,7 @@
  * 
  * note: this requires the wifinina library to be installed
  *
- * author: prof. alex shenfield
+ * author: alex shenfield
  * date:   2024-11-12
  */
 

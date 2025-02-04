@@ -6,7 +6,7 @@
  *
  * this program uses pin A0 for the analog sensor and pin 5 for the led
  *
- * author: prof. alex shenfield
+ * author: alex shenfield
  * date:   2024-11-12
  */
 

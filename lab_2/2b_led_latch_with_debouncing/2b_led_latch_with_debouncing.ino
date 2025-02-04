@@ -8,7 +8,7 @@
  * this program uses pin 7 for the push button and pin 6 for the led (this 
  * is the built in led on the MKR series of boards).
  *
- * author: prof. alex shenfield
+ * author: alex shenfield
  * date:   2024-11-12
  */
 

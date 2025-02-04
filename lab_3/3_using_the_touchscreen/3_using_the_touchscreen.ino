@@ -1,4 +1,4 @@
-/**
+/*
  * 3_using_the_touchscreen.ino
  * 
  * a simple touch screen demo using the adafruit gfx libraries and
