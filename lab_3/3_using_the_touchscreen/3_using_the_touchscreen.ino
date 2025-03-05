@@ -32,9 +32,10 @@
 // define the custom pins
 #define TFT_DC 6
 #define TFT_CS 7
+#define TFT_RS 5
 
 // create display and touchscreen objects
-Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC);
+Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_RS);
 Adafruit_FT6206   ts = Adafruit_FT6206();
 
 // lcd size
